@@ -8,7 +8,6 @@ Customer Cart Pipeline : Extracts customer cart data from REST APIs, applies bus
 
 Survey Data Pipeline :Ingests survey data from local Excel files, applies data validation and transformations, and loads the structured output into PostgreSQL.
 
----
 
 ---
 
