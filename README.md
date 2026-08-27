@@ -64,10 +64,10 @@ http://localhost:8080
 
 ```
 ## Access Pgadmin
-Open the pgAdmin web interface.
-Create and configure a new server connection.
-Set the Host name/address to postgres (this is the default hostname defined in the docker-compose.yml file).
-If you changed the PostgreSQL service name or hostname in your Docker Compose configuration, use the hostname you configured instead.
+- Open the pgAdmin web interface.
+- Create and configure a new server connection.
+- Set the Host name/address to postgres (this is the default hostname defined in the docker-compose.yml file).
+- If you changed the PostgreSQL service name or hostname in your Docker Compose configuration, use the hostname you configured instead.
 
 ---
 
